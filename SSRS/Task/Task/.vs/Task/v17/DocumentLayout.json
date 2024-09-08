@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task10.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|solutionrelative:Task\\Task10.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task9.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|solutionrelative:Task\\Task9.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task8.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|solutionrelative:Task\\Task8.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task7.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|solutionrelative:Task\\Task7.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task6.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|solutionrelative:Task\\Task6.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task5.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|solutionrelative:Task\\Task5.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task3n4.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|solutionrelative:Task\\Task3n4.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|solutionrelative:Task\\Task2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{672E1D4A-63C4-45B6-A01C-E897A6F8EEAE}|Task\\Task.rptproj|solutionrelative:Task\\Task1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task10.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task10.rdl",
+              "RelativeDocumentMoniker": "Task\\Task10.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task10.rdl [Design]",
+              "RelativeToolTip": "Task\\Task10.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T16:06:34.393Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task9.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task9.rdl",
+              "RelativeDocumentMoniker": "Task\\Task9.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task9.rdl [Design]",
+              "RelativeToolTip": "Task\\Task9.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T16:06:11.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task8.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task8.rdl",
+              "RelativeDocumentMoniker": "Task\\Task8.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task8.rdl [Design]",
+              "RelativeToolTip": "Task\\Task8.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T16:05:21.346Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task7.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task7.rdl",
+              "RelativeDocumentMoniker": "Task\\Task7.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task7.rdl [Design]",
+              "RelativeToolTip": "Task\\Task7.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T16:04:59.232Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task6.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task6.rdl",
+              "RelativeDocumentMoniker": "Task\\Task6.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task6.rdl [Design]",
+              "RelativeToolTip": "Task\\Task6.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T16:04:37.393Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task5.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task5.rdl",
+              "RelativeDocumentMoniker": "Task\\Task5.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task5.rdl [Design]",
+              "RelativeToolTip": "Task\\Task5.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T16:04:19.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task3n4.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task3n4.rdl",
+              "RelativeDocumentMoniker": "Task\\Task3n4.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task3n4.rdl [Design]",
+              "RelativeToolTip": "Task\\Task3n4.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T16:03:54.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task2.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task2.rdl",
+              "RelativeDocumentMoniker": "Task\\Task2.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task2.rdl [Design]",
+              "RelativeToolTip": "Task\\Task2.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T16:03:23.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task1.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task1.rdl",
+              "RelativeDocumentMoniker": "Task\\Task1.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\ITI Internship\\DAY 9 - SQLBI\\Lab\\Task\\Task\\Task1.rdl [Design]",
+              "RelativeToolTip": "Task\\Task1.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T14:30:23.581Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
