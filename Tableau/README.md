@@ -1,5 +1,8 @@
 # Tableau Story - AdventureWorks Data Warehouse (2022)
 
+![image](https://github.com/user-attachments/assets/b29fe78e-7819-49b4-9e3b-9dcd62d95a4a)
+
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Key Steps](#key-steps)
