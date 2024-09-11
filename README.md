@@ -19,7 +19,7 @@ This repository contains various Business Intelligence (BI) and Extract, Transfo
 3. **Visual Studio Community Edition**
 4. **SQL Server Integration, Analysis, Reporting Services**
 
-Start by restoring the relevant Databases into SQL Server, Make sure the services are running and fully functional before you can access the packages (NOTE: You might have to adjust connection settings to your own settings)
+- Start by restoring the relevant Databases into SQL Server, Make sure the services are running and fully functional before you can access the packages (NOTE: You might have to adjust connection settings to your own settings)
 ---
 ## SSIS
 
